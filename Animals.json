@@ -1,7 +1,7 @@
 [
 	{
 		"topic": "Farm Animals",
-		"startingImage": "<http://donate.worldvision.org/media/catalog/product/cache/1/image/310x/9df78eab33525d08d6e5fb8d27136e95/D/4/D4041711_13_Farm_Animals.jpg>",
+		"startingImage": "http://donate.worldvision.org/media/catalog/product/cache/1/image/310x/9df78eab33525d08d6e5fb8d27136e95/D/4/D4041711_13_Farm_Animals.jpg",
 		"words": {
 			"Cow": "http://media-2.web.britannica.com/eb-media/11/136111-004-C620AA83.jpg",
 			"Pig": "http://dealbreaker.com/uploads/2013/06/pig1_1204022c.jpg",
