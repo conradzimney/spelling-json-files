@@ -1,0 +1,53 @@
+[
+	{
+		"topic": "Fruit",
+		"startingImage": "http://keepitoff.org/wp-content/uploads/2014/10/10.22.jpg",
+		"words": {
+			"Apple": "http://dreamatico.com/data_images/apple/apple-7.jpg",
+			"Pear": "http://www.bolandpulp.com/wp-content/uploads/2014/09/Pear-2.png",
+			"Peach": "http://www.corkscapsandtaps.com/wp-content/uploads/2015/08/peach-image-free-1.jpg",
+			"Berry": "http://laberryfrozenyogurt.com/wp-content/uploads/2014/03/black-and-red-berry.png",
+			"Banana": "https://www.organicfacts.net/wp-content/uploads/2013/05/Banana21.jpg",
+			"Orange": "http://www.healthyfig.com/wp-content/uploads/2015/01/oranges.jpg",
+			"Grape": "http://greenmarketglobal.com/wp-content/uploads/2013/01/grapes.jpg",
+			"Lemon": "https://www.organicfacts.net/wp-content/uploads/2013/05/Lemon11.jpg",
+			"Lime": "http://www.freshfruitportal.com/wp-content/uploads/2013/05/limes_74531311.jpg",
+			"Melon": "http://img.foodnetwork.com/FOOD/2011/11/07/HE_cantaloupe-2_s4x3_lead.jpg",
+			"Kiwi": "http://www.weeklyhealthylife.com/wp-content/uploads/2015/06/kiwi-fruit-sleepy-snacks-2706-de.jpg",
+			"Cherry": "http://globe-views.com/dcim/dreams/cherry/cherry-03.jpg"
+		}
+	},
+	{
+		"topic": "Vegetables",
+		"startingImage": "https://s3.amazonaws.com/cdn.atlaswearables.com/blog_banners/slide_1.jpg",
+		"words": {
+			"Potato": "http://whatscookingamerica.net/Vegetables/Russet_Potato.jpg",
+			"Broccoli": "http://sekapporchard.com/wp-content/uploads/2013/09/Broccoli.jpg",
+			"Pepper": "http://cdn.sheknows.com/articles/2014/10/KMiner/peppers/478991905.jpg",
+			"Carrot": "http://www.juicetherapy.co.uk/wp-content/uploads/2014/08/carrots.png",
+			"Eggplant": "http://pngimg.com/upload/eggplant_PNG2771.png",
+			"Cucumber": "http://i.livescience.com/images/i/000/076/219/iFF/cucumbers.jpg?1432787361",
+			"Onion": "http://www.petpoisonhelpline.com/wp-content/uploads/2011/10/Onion.jpg",
+			"Lettuce": "http://muslimobserver.com/http://muslimobserver.com//wp-content/uploads//2015/07/photodune-2717005-lettuce-m.jpg",
+			"Spinach": "http://producemadesimple.ca/wp-content/uploads/2013/07/spinach.jpg",
+			"Pumpkin": "https://americanorchard.files.wordpress.com/2013/03/pumpkin-simple-image.jpg"
+		}
+	},
+	{
+		"topic": "General Food",
+		"startingImage": "http://www.charterforcompassion.org/images/menus/communities/best-food.jpg",
+		"words": {
+			"Pasta": "http://originalpizzacucina.com/wp-content/uploads/2013/12/pasta.jpg",
+			"Meatloaf": "http://img.food.com/img/upload/package/comfort-foods/H2_Meatloaf_Sliced_1.jpg",
+			"Soup": "http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/8/13/4/FNM100109Insert021_s4x3.jpg.rend.sni18col.jpeg",
+			"Fries": "http://www.nanassoulfoodkitchen.com/nsfk_wp/wp-content/uploads/2013/11/French-Fries-random-35742326-1600-1455.jpg",
+			"Burger": "http://aht.seriouseats.com/images/2012/04/20120427-bk-japan-ringo-burger-product-shot.jpg",
+			"Burrito": "http://www.deltaco.com/images/food/menu/burritos/classicgrilledchickenburrito.png",
+			"Taco": "http://www.deltaco.com/images/turkey/turkey-tacos.png",
+			"Salad": "http://specialdocs.com/wp-content/uploads/2011/01/custom_buffet_italian_salad_m.jpg",
+			"Sandwich": "http://blogs.plos.org/obesitypanacea/files/2014/10/sandwich.jpg",
+			"Cheese": "http://www.starmarket.com/wp-content/uploads/2014/03/Cheese-Deli14.jpg",
+			"Milk": "http://www.bbcgoodfood.com/sites/default/files/milk-500_0.jpg"
+		}
+	}
+]
