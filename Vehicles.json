@@ -1,24 +1,24 @@
 [
 	{
 		"topic": "Urban Vehicles",
-		"startingImage": "<imglink>",
+		"startingImage": "https://i.ytimg.com/vi/_WKXF74y8EI/maxresdefault.jpg",
 		"words": {
-			"Car": "<http://www.straight-six.com/blog/wp-content/uploads/2011/09/2012_Honda_Civic.jpg>",
-			"Bus": "<http://www.mynorthbaynow.com/wp-content/uploads/2015/04/10256547_10152278166119667_1675167995848281413_n7.jpg>",
-			"Bike": "<http://2k13.konaworld.com/images/bikes/hires/lanai.jpg>",
-			"Truck": "<http://www.daimler-trucksnorthamerica.com/images/news/mediaroom-images/products/freightlinertrucks/med-res/FL17603_m.jpg>",
-			"Plane": "<http://i.huffpost.com/gen/1467089/images/o-PLANE-facebook.jpg>",
-			"Cart": "<http://www.destinwheels.com/images/citEcar_4pr_street_legal_golf_cart.jpg>"
+			"Car": "http://www.straight-six.com/blog/wp-content/uploads/2011/09/2012_Honda_Civic.jpg",
+			"Bus": "http://www.mynorthbaynow.com/wp-content/uploads/2015/04/10256547_10152278166119667_1675167995848281413_n7.jpg",
+			"Bike": "http://2k13.konaworld.com/images/bikes/hires/lanai.jpg",
+			"Truck": "http://www.daimler-trucksnorthamerica.com/images/news/mediaroom-images/products/freightlinertrucks/med-res/FL17603_m.jpg",
+			"Plane": "http://i.huffpost.com/gen/1467089/images/o-PLANE-facebook.jpg",
+			"Cart": "http://www.destinwheels.com/images/citEcar_4pr_street_legal_golf_cart.jpg"
 		}
 	},
 	{
 		"topic": "Water Vehicles",
-		"startingImage": "<imglink>",
+		"startingImage": "http://www.boatingbasicsonline.com/content/images/3types.gif",
 		"words": {
-			"Boat": "<https://upload.wikimedia.org/wikipedia/commons/1/14/Rodney_boat.jpg>",
-			"Yacht": "http://www.csoyachts.com/images/slider/photo3.jpg>",
-			"Ferry": "<http://pics4.city-data.com/cpicv/vfiles18700.jpg>",
-			"Sailboat": "<http://www.boatbookings.com/images/sailboat.jpg>",
+			"Boat": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rodney_boat.jpg",
+			"Yacht": "http://www.csoyachts.com/images/slider/photo3.jpg",
+			"Ferry": "http://pics4.city-data.com/cpicv/vfiles18700.jpg",
+			"Sailboat": "http://www.boatbookings.com/images/sailboat.jpg",
 		}
 	}
 ]

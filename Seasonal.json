@@ -1,0 +1,33 @@
+[
+	{
+		"topic": "Seasons",
+		"startingImage": "http://www.cwu.edu/~shkarinam/seasons2.jpg",
+		"words": {
+			"Spring": "https://jmlysun.files.wordpress.com/2015/05/spring.jpg",
+			"Summer": "http://wingsprogram.com/wp-content/uploads/2015/06/Summer-Is-On-Its-Way.jpg",
+			"Fall": "http://www.byui.edu/images/education-human-dev/Fall.jpg",
+			"Winter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyEgrSWyWxe8kaj4__V74Byq5YzRj6MHkggmC6Qe_HKU8dWFr",
+		}
+	},
+	{
+		"topic": "Holidays",
+		"startingImage": "http://dustinstrong.com/wp-content/uploads/2014/04/Holidays.jpg",
+		"words": {
+			"Christmas": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-N0dqUwDVp5v8xmQzV72OHjkjT897NPSdo-MbUBd-x09Id7iJ",
+			"Easter": "http://elmodenafrontline.com/wp-content/uploads/2015/03/easter.jpg",
+			"Birthday": "http://www.seriouseats.com/recipes/assets_c/2014/11/BakedOccasions_BirthdayCake-thumb-1500xauto-414365.jpg",
+			"MLK": "http://cp91279.biography.com/BRAND_BIO_BIO_Martin-Luther-King-Jr-Mini-Biography_0_172243_SF_HD_768x432-16x9.jpg",
+		}
+	},
+	{
+		"topic": "Christmas",
+		"startingImage": "http://cdn.history.com/sites/2/2015/04/hith-father-christmas-lights-iStock_000029514386Large.jpg",
+		"words": {
+			"Tree": "http://www.whe.org/assets/images/christmas-tree.jpg",
+			"Present": "http://www.inspiringinterns.com/blog/wp-content/uploads/2011/12/christmas-gifts.jpg",
+			"Stocking": "http://cdn.sheknows.com/articles/three-christmas-stockings.jpg",
+			"Ornament": "http://designlike.com/wp-content/uploads/2011/12/ornaments-bauble.jpg-1.jpg",
+			"Holly": "http://soulofagardener.files.wordpress.com/2011/12/holly2.jpg"
+		}
+	}
+]
